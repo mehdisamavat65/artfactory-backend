@@ -1,4 +1,4 @@
 {
-    "mongoUrl":"mongodb://localhost:27017/artfactory",
+    "mongoUrl":"mongodb://artfacto_user:m9pCtP42d8@artfactoryedu.com:27017/artfacto_db",
     "secretKey":"artfactorysecret"
 }
