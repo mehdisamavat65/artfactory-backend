@@ -1,0 +1,4 @@
+{
+    "mongoUrl":"mongodb://localhost:27017/artfactory",
+    "secretKey":"artfactorysecret"
+}
